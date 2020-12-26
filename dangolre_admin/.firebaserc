@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dangolre"
+  },
+  "targets": {
+    "dangolre": {
+      "hosting": {
+        "admin": [
+          "dangolreadmin"
+        ]
+      }
+    }
+  }
+}
